@@ -1,6 +1,1 @@
-# Wazuh-SIEM-alertas-Gmail
-Este repositorio incluye una carpeta con varios PDF donde explico, paso a paso, cómo enviar alertas de Wazuh a Gmail usando una integración custom y un script en Python, como alternativa a wazuh-maild. 
 
-Recomiendo leer la documentación con calma y en orden, porque cada archivo forma parte del proceso completo.
-
-Todo el código necesario está en los PDFs.
