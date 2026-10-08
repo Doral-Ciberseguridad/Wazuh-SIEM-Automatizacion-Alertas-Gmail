@@ -1,1 +1,1 @@
-Entra en la carpeta para leer la guía con los PDFs.
+Entra en la carpeta de este repositorio para leer la guía con los PDFs.
